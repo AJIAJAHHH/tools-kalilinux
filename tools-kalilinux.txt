@@ -4,3 +4,4 @@ Tools kali linux untuk web pentes
 3. burpsquit
 4. sqlmap
 5.wpscan
+6. Dirhunt
