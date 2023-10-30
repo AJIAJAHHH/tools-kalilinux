@@ -1,0 +1,4 @@
+Tools kali linux untuk web pentes
+1. nmap
+2. sql injection
+3. burpsquit
